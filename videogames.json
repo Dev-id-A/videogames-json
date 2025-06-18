@@ -1,110 +1,120 @@
 [{
-    "title":"Tom Clancy's Splinter Cell",
+    "title": "Tom Clancy's Splinter Cell",
     "id": 1,
     "genre":["Stealth"],
-    "platform":[],
+    "platform":["Xbox","Windows", "PlayStation 2", "GameCube", "PlayStation 3", "Xbox One"],
     "release":{
         "year": 2002,
         "month": 11    
     },
-    "img": ""
+    "img": "games-img/splinter-cell.jpg",
+    "price": 25
 },
 {
-    "title":"",
-    "id": 1,
-    "genre":"",
-    "platform":[],
+    "title": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "id": 2,
+    "genre":["Stealth"],
+    "platform":["PlayStation 2", "Windows", "Xbox", "GameCube", "PlayStation 3", "Xbox One", "Xbox Series"],
     "release":{
-        "year":"",
-        "month":""    
+        "year": 2004,
+        "month": 4    
     },
-    "img": ""
+    "img": "games-img/splinter-cell-pandora-tomorrow.png",
+    "price": 30
 },
 {
-    "title":"",
-    "id": 1,
-    "genre":"",
-    "platform":[],
+    "title": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "id": 3,
+    "genre":["Stealth"],
+    "platform":["PlayStation 2", "Windows", "Xbox", "GameCube", "Xbox 360", "Nintendo 3DS", "PlayStation 3", "Xbox One", "Xbox Series"],
     "release":{
-        "year":"",
-        "month":""    
+        "year": 2005,
+        "month": 3    
     },
-    "img": ""
+    "img": "games-img/splinter-cell-chaos-theory.png",
+    "price": 40
 },
 {
-    "title":"",
-    "id": 1,
-    "genre":"",
-    "platform":[],
+    "title": "Tom Clancy's Splinter Cell: Double Agent",
+    "id": 4,
+    "genre":["Stealth"],
+    "platform":["Xbox 360", "Windows", "PlayStation 3", "Xbox One", "Xbox Series"],
     "release":{
-        "year":"",
-        "month":""    
+        "year": 2006,
+        "month": 10    
     },
-    "img": ""
+    "img": "games-img/splinter-cell-double-agent.jpg",
+    "price": 30
 },
 {
-    "title":"",
-    "id": 1,
-    "genre":"",
-    "platform":[],
+    "title": "Tom Clancy's Splinter Cell: Conviction",
+    "id": 5,
+    "genre":["Shooter", "Stealth"],
+    "platform":["Windows", "Xbox 360", "Xbox One"],
     "release":{
-        "year":"",
-        "month":""    
+        "year": 2009,
+        "month": 5    
     },
-    "img": ""
+    "img": "games-img/splinter-cell-conviction.jpg",
+    "price": 30
 },
 {
-    "title":"",
-    "id": 1,
-    "genre":"",
-    "platform":[],
+    "title": "Tom Clancy's Splinter Cell: Blacklist",
+    "id": 6,
+    "genre":["Shooter", "Stealth"],
+    "platform":["Windows", "Xbox 360", "PlayStation 3", "Wii U"],
     "release":{
-        "year":"",
-        "month":""    
+        "year": 2013,
+        "month": 8    
     },
-    "img": ""
+    "img": "games-img/splinter-cell-blacklist.jpg",
+    "price": 15
 },
 {
-    "title":"",
-    "id": 1,
-    "genre":"",
-    "platform":[],
+    "title": "Balatro",
+    "id": 7,
+    "genre":["Cards", "Roguelike"],
+    "platform":["Windows", "PlayStation 4", "Xbox One", "Nintendo Switch", "PlayStation 5", "Xbox Series", "Android", "IPhone"],
     "release":{
-        "year":"",
-        "month":""    
+        "year": 2024,
+        "month": 2    
     },
-    "img": ""
+    "img": "games-img/balatro.jpg",
+    "price": 15
 },
 {
-    "title":"",
-    "id": 1,
-    "genre":"",
-    "platform":[],
+    "title": "Undertale",
+    "id": 8,
+    "genre":["Japanese-style RPG (JRPG)"],
+    "platform":["Windows", "Linux", "PS Vita", "PlayStation 4", "Nintendo Switch", "Xbox One", "Xbox Series"],
     "release":{
-        "year":"",
-        "month":""    
+        "year": 2015,
+        "month": 9    
     },
-    "img": ""
+    "img": "games-img/undertale.png",
+    "price": 20
 },
 {
-    "title":"",
-    "id": 1,
-    "genre":"",
-    "platform":[],
+    "title": "Deltarune",
+    "id": 9,
+    "genre":["Japanese-style RPG (JRPG)"],
+    "platform": ["Windows", "PlayStation 4", "Nintendo Switch", "PlayStation 5", "Nintendo Switch 2"],
     "release":{
-        "year":"",
-        "month":""    
+        "year": 2025,
+        "month": 6    
     },
-    "img": ""
+    "img": "games-img/deltarune.png",
+    "price": 25
 },
 {
-    "title":"",
-    "id": 1,
-    "genre":"",
-    "platform":[],
+    "title": "Sea of Stars",
+    "id": 10,
+    "genre":["Japanese-style RPG (JRPG)"],
+    "platform": ["Windows", "PlayStation 4", "Xbox One", "Nintendo Switch", "PlayStation 5", "Xbox Series"],
     "release":{
-        "year":"",
-        "month":""    
+        "year": 2023,
+        "month": 8    
     },
-    "img": ""
+    "img": "games-img/sea-of-stars.jpg",
+    "price": 30
 }]
