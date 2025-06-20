@@ -117,4 +117,124 @@
     },
     "img": "games-img/sea-of-stars.jpg",
     "price": 30
+},
+{
+    "title": "Bomb Rush Cyberfunk",
+    "id": 11,
+    "genre":["Action"],
+    "platform": ["Windows", "Nintendo Switch", "PlayStation 4", "Xbox One", "Xbox Series", "PlayStation 5"],
+    "release":{
+        "year": 2023,
+        "month": 8    
+    },
+    "img": "games-img/bomb-rush-cuberfunk.jpg",
+    "price": 40
+},
+{
+    "title": "Demon's Souls",
+    "id": 12,
+    "genre":["Role-playing (RPG)", "Action-RPG"],
+    "platform": ["PlayStation 3"],
+    "release":{
+        "year": 2009,
+        "month": 2    
+    },
+    "img": "games-img/demon-souls.png",
+    "price": 40
+},
+{
+    "title": "Demon's Souls",
+    "id": 13,
+    "genre":["Role-playing (RPG)", "Action-RPG"],
+    "platform": ["PlayStation 5"],
+    "release":{
+        "year": 2020,
+        "month": 11    
+    },
+    "img": "games-img/demon-souls-2020.png",
+    "price": 40
+},
+{
+    "title": "Dark Souls",
+    "id": 14,
+    "genre":["Role-playing (RPG)", "Action-RPG"],
+    "platform": ["PlayStation 3", "Xbox 360"],
+    "release":{
+        "year": 2011,
+        "month": 9    
+    },
+    "img": "games-img/dark-souls.jpg",
+    "price": 50
+},
+{
+    "title": "Dark Souls II",
+    "id": 15,
+    "genre":["Role-playing (RPG)", "Action-RPG"],
+    "platform": ["Xbox 360", "PlayStation 3", "Windows"],
+    "release":{
+        "year": 2012,
+        "month": 3    
+    },
+    "img": "games-img/dark-souls-II.jpg",
+    "price": 40
+},
+{
+    "title": "Dark Souls III",
+    "id": 16,
+    "genre":["Role-playing (RPG)", "Action-RPG"],
+    "platform": ["PlayStation 4", "Xbox One", "Windows"],
+    "release":{
+        "year": 2016,
+        "month": 3    
+    },
+    "img": "games-img/dark-souls-III.png",
+    "price": 50
+},
+{
+    "title": "Bloodborne",
+    "id": 17,
+    "genre":["Role-playing (RPG)", "Action-RPG"],
+    "platform": ["PlayStation 4"],
+    "release":{
+        "year": 2015,
+        "month": 3    
+    },
+    "img": "games-img/bloodborne.jpg",
+    "price": 30
+},
+{
+    "title": "Sekiro: Shadows Die Twice",
+    "id": 18,
+    "genre":["Action", "Stealth"],
+    "platform": ["Windows", "PlayStation 4", "Xbox One"],
+    "release":{
+        "year": 2019,
+        "month": 3    
+    },
+    "img": "games-img/sekiro.png",
+    "price": 60
+},
+{
+    "title": "Elden Ring",
+    "id": 19,
+    "genre":["Role-playing (RPG)", "Action-RPG", "Sandbox"],
+    "platform": ["Windows", "PlayStation 4", "Xbox One", "PlayStation 5", "Xbox Series"],
+    "release":{
+        "year": 2022,
+        "month": 2    
+    },
+    "img": "games-img/elden-ring.jpg",
+    "price": 50
+},
+{
+    "title": "Lies of P",
+    "id": 20,
+    "genre":["Role-playing (RPG)", "Action-RPG", "Sandbox"],
+    "platform": ["Windows", "Xbox One", "Xbox Series", "PlayStation 4", "PlayStation 5"],
+    "release":{
+        "year": 2023,
+        "month": 9    
+    },
+    "img": "games-img/lies-of-p.jpg",
+    "price": 60
 }]
