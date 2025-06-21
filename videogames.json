@@ -7,7 +7,7 @@
         "year": 2002,
         "month": 11    
     },
-    "img": "games-img/splinter-cell.jpg",
+    "img": "games-img-25-1(st)/splinter-cell.jpg",
     "price": 25
 },
 {
@@ -19,7 +19,7 @@
         "year": 2004,
         "month": 4    
     },
-    "img": "games-img/splinter-cell-pandora-tomorrow.png",
+    "img": "games-img-25-1(st)/splinter-cell-pandora-tomorrow.png",
     "price": 30
 },
 {
@@ -31,7 +31,7 @@
         "year": 2005,
         "month": 3    
     },
-    "img": "games-img/splinter-cell-chaos-theory.png",
+    "img": "games-img-25-1(st)/splinter-cell-chaos-theory.png",
     "price": 40
 },
 {
@@ -43,7 +43,7 @@
         "year": 2006,
         "month": 10    
     },
-    "img": "games-img/splinter-cell-double-agent.jpg",
+    "img": "games-img-25-1(st)/splinter-cell-double-agent.jpg",
     "price": 30
 },
 {
@@ -55,7 +55,7 @@
         "year": 2009,
         "month": 5    
     },
-    "img": "games-img/splinter-cell-conviction.jpg",
+    "img": "games-img-25-1(st)/splinter-cell-conviction.jpg",
     "price": 30
 },
 {
@@ -67,7 +67,7 @@
         "year": 2013,
         "month": 8    
     },
-    "img": "games-img/splinter-cell-blacklist.jpg",
+    "img": "games-img-25-1(st)/splinter-cell-blacklist.jpg",
     "price": 15
 },
 {
@@ -79,7 +79,7 @@
         "year": 2024,
         "month": 2    
     },
-    "img": "games-img/balatro.jpg",
+    "img": "games-img-25-1(st)/balatro.jpg",
     "price": 15
 },
 {
@@ -91,7 +91,7 @@
         "year": 2015,
         "month": 9    
     },
-    "img": "games-img/undertale.png",
+    "img": "games-img-25-1(st)/undertale.png",
     "price": 20
 },
 {
@@ -103,7 +103,7 @@
         "year": 2025,
         "month": 6    
     },
-    "img": "games-img/deltarune.png",
+    "img": "games-img-25-1(st)/deltarune.png",
     "price": 25
 },
 {
@@ -115,7 +115,7 @@
         "year": 2023,
         "month": 8    
     },
-    "img": "games-img/sea-of-stars.jpg",
+    "img": "games-img-25-1(st)/sea-of-stars.jpg",
     "price": 30
 },
 {
@@ -127,7 +127,7 @@
         "year": 2023,
         "month": 8    
     },
-    "img": "games-img/bomb-rush-cuberfunk.jpg",
+    "img": "games-img-25-1(st)/bomb-rush-cuberfunk.jpg",
     "price": 40
 },
 {
@@ -139,7 +139,7 @@
         "year": 2009,
         "month": 2    
     },
-    "img": "games-img/demon-souls.png",
+    "img": "games-img-25-1(st)/demon-souls.png",
     "price": 40
 },
 {
@@ -151,7 +151,7 @@
         "year": 2020,
         "month": 11    
     },
-    "img": "games-img/demon-souls-2020.png",
+    "img": "games-img-25-1(st)/demon-souls-2020.png",
     "price": 40
 },
 {
@@ -163,7 +163,7 @@
         "year": 2011,
         "month": 9    
     },
-    "img": "games-img/dark-souls.jpg",
+    "img": "games-img-25-1(st)/dark-souls.jpg",
     "price": 50
 },
 {
@@ -175,7 +175,7 @@
         "year": 2012,
         "month": 3    
     },
-    "img": "games-img/dark-souls-II.jpg",
+    "img": "games-img-25-1(st)/dark-souls-II.jpg",
     "price": 40
 },
 {
@@ -187,7 +187,7 @@
         "year": 2016,
         "month": 3    
     },
-    "img": "games-img/dark-souls-III.png",
+    "img": "games-img-25-1(st)/dark-souls-III.png",
     "price": 50
 },
 {
@@ -199,7 +199,7 @@
         "year": 2015,
         "month": 3    
     },
-    "img": "games-img/bloodborne.jpg",
+    "img": "games-img-25-1(st)/bloodborne.jpg",
     "price": 30
 },
 {
@@ -211,7 +211,7 @@
         "year": 2019,
         "month": 3    
     },
-    "img": "games-img/sekiro.png",
+    "img": "games-img-25-1(st)/sekiro.png",
     "price": 60
 },
 {
@@ -223,7 +223,7 @@
         "year": 2022,
         "month": 2    
     },
-    "img": "games-img/elden-ring.jpg",
+    "img": "games-img-25-1(st)/elden-ring.jpg",
     "price": 50
 },
 {
@@ -235,6 +235,126 @@
         "year": 2023,
         "month": 9    
     },
-    "img": "games-img/lies-of-p.jpg",
+    "img": "games-img-25-1(st)/lies-of-p.jpg",
     "price": 60
+},
+{
+    "title": "Devil May Cry",
+    "id": 21,
+    "genre":["Action", "Hack and slash"],
+    "platform": ["PlayStation 2", "Nintendo Switch"],
+    "release":{
+        "year": 2001,
+        "month": 8    
+    },
+    "img": "games-img-25-1(st)/devil-may-cry.jpg",
+    "price": 20
+},
+{
+    "title": "Devil May Cry 2",
+    "id": 22,
+    "genre":["Action", "Hack and slash"],
+    "platform": ["PlayStation 2", "Nintendo Switch"],
+    "release":{
+        "year": 2003,
+        "month": 1    
+    },
+    "img": "games-img-25-1(st)/devil-may-cry-2.png",
+    "price": 20
+},
+{
+    "title": "Devil May Cry 3: Dante's Awakening",
+    "id": 23,
+    "genre":["Action", "Hack and slash"],
+    "platform": ["PlayStation 2", "Nintendo Switch"],
+    "release":{
+        "year": 2005,
+        "month": 9    
+    },
+    "img": "games-img-25-1(st)/devil-may-cry-3.png",
+    "price": 20
+},
+{
+    "title": "Devil May Cry 4",
+    "id": 24,
+    "genre":["Action", "Hack and slash"],
+    "platform": ["Windows", "PlayStation 3", "Xbox 360"],
+    "release":{
+        "year": 2008,
+        "month": 1    
+    },
+    "img": "games-img-25-1(st)/devil-may-cry-4.png",
+    "price": 20
+},
+{
+    "title": "Devil May Cry 5",
+    "id": 25,
+    "genre":["Action", "Hack and slash"],
+    "platform": ["Windows", "PlayStation 4", "Xbox One"],
+    "release":{
+        "year": 2019,
+        "month": 3    
+    },
+    "img": "games-img-25-1(st)/devil-may-cry-5.jpg",
+    "price": 20
+},
+{
+    "title": "Sniper Elite",
+    "id": 26,
+    "genre":["Action", "Simulation", "Shooter"],
+    "platform": ["PlayStation 2", "Xbox", "Wii", "Windows"],
+    "release":{
+        "year": 2005,
+        "month": 10    
+    },
+    "img": "games-img-25-2(nd)/sniper-elite.png",
+    "price": 20
+},
+{
+    "title": "Sniper Elite V2",
+    "id": 27,
+    "genre":["Action", "Simulation", "Shooter"],
+    "platform": ["Windows", "PlayStation 3", "Xbox 360"],
+    "release":{
+        "year": 2012,
+        "month": 5    
+    },
+    "img": "games-img-25-2(nd)/sniper-elite-2.jpg",
+    "price": 20
+},
+{
+    "title": "Sniper Elite III",
+    "id": 28,
+    "genre":["Action", "Simulation", "Shooter"],
+    "platform": ["Xbox 360", "PlayStation 3", "Windows", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "release":{
+        "year": 2014,
+        "month": 6    
+    },
+    "img": "games-img-25-2(nd)/sniper-elite-3.jpg",
+    "price": 30
+},
+{
+    "title": "Sniper Elite 4",
+    "id": 29,
+    "genre":["Action", "Simulation", "Shooter"],
+    "platform": ["Windows", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "release":{
+        "year": 2017,
+        "month": 2    
+    },
+    "img": "games-img-25-2(nd)/sniper-elite-4.jpg",
+    "price": 30
+},
+{
+    "title": "Sniper Elite 5",
+    "id": 30,
+    "genre":["Action", "Simulation", "Shooter"],
+    "platform": ["Windows", "Xbox One", "PlayStation 4", "PlayStation 5", "Xbox Series"],
+    "release":{
+        "year": 2022,
+        "month": 5    
+    },
+    "img": "games-img-25-2(nd)/sniper-elite-5.JPG",
+    "price": 30
 }]
