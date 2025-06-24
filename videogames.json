@@ -357,4 +357,124 @@
     },
     "img": "games-img-25-2(nd)/sniper-elite-5.JPG",
     "price": 30
+},
+{
+    "title": "Assassin's Creed",
+    "id": 31,
+    "genre":["Platformer", "Action", "Adventure"],
+    "platform": ["PlayStation 3", "Xbox 360", "Windows"],
+    "release":{
+        "year": 2007,
+        "month": 11    
+    },
+    "img": "games-img-25-2(nd)/assassin's-creed.jpg",
+    "price": 10
+},
+{
+    "title": "Assassin's Creed II",
+    "id": 32,
+    "genre":["Platformer", "Action", "Adventure"],
+    "platform": ["PlayStation 3", "Xbox 360", "Windows"],
+    "release":{
+        "year": 2009,
+        "month": 11    
+    },
+    "img": "games-img-25-2(nd)/assassin's-creed-II.jpg",
+    "price": 10
+},
+{
+    "title": "Assassin's Creed: Brotherhood",
+    "id": 33,
+    "genre":["Platformer", "Action", "Adventure"],
+    "platform": ["PlayStation 3", "Xbox 360", "Windows"],
+    "release":{
+        "year": 2010,
+        "month": 11    
+    },
+    "img": "games-img-25-2(nd)/assassin's-creed-brotherhood.jpg",
+    "price": 15
+},
+{
+    "title": "Assassin's Creed: Revelations",
+    "id": 34,
+    "genre":["Platformer", "Action", "Adventure"],
+    "platform": ["PlayStation 3", "Xbox 360", "Windows"],
+    "release":{
+        "year": 2011,
+        "month": 11   
+    },
+    "img": "games-img-25-2(nd)/assassin's-creed-revelations.png",
+    "price": 10
+},
+{
+    "title": "Assassin's Creed III",
+    "id": 35,
+    "genre":["Platformer", "Action", "Adventure"],
+    "platform": ["PlayStation 3", "Xbox 360", "Windows", "Wii U", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "release":{
+        "year": 2012,
+        "month": 10    
+    },
+    "img": "games-img-25-2(nd)/assassin's-creed-III.jpg",
+    "price": 40
+},
+{
+    "title": "Assassin's Creed IV: Black Flag",
+    "id": 36,
+    "genre":["Vehicular Combat", "Platformer", "Action", "Adventure"],
+    "platform": ["PlayStation 3", "Xbox 360", "Windows", "Wii U", "Xbox One", "PlayStation 4"],
+    "release":{
+        "year": 2013,
+        "month": 10    
+    },
+    "img": "games-img-25-2(nd)/assassin's-creed-IV.jpg",
+    "price": 20
+},
+{
+    "title": "Assassin's Creed: Rogue",
+    "id": 37,
+    "genre":["Platformer", "Action", "Adventure"],
+    "platform": ["PlayStation 3", "Xbox 360", "Windows", "Xbox One", "PlayStation 4"],
+    "release":{
+        "year": 2014,
+        "month": 11    
+    },
+    "img": "games-img-25-2(nd)/assassin's-creed-rouge.jpg",
+    "price": 20
+},
+{
+    "title": "Assassin's Creed Unity",
+    "id": 38,
+    "genre":["Platformer", "Action", "Adventure"],
+    "platform": ["Windows", "Xbox One", "PlayStation 4"],
+    "release":{
+        "year": 2014,
+        "month": 11    
+    },
+    "img": "games-img-25-2(nd)/assassin's-creed-unity.jpg",
+    "price": 30
+},
+{
+    "title": "Assassin's Creed Syndicate",
+    "id": 39,
+    "genre":["Platformer", "Action", "Adventure"],
+    "platform": ["Windows", "Xbox One", "PlayStation 4", "PlayStation 5", "Xbox Series"],
+    "release":{
+        "year": 2015,
+        "month": 10    
+    },
+    "img": "games-img-25-2(nd)/assassin's-creed-syndicate.jpg",
+    "price": 20
+},
+{
+    "title": "Assassin's Creed Origins",
+    "id": 40,
+    "genre":["Role-playing (RPG)", "Platformer", "Action", "Adventure"],
+    "platform": ["Windows", "Xbox One" , "PlayStation 4"],
+    "release":{
+        "year": 0,
+        "month": 0    
+    },
+    "img": "games-img-25-2(nd)/assassin's-creed-origins.jpg",
+    "price": 40
 }]
