@@ -472,9 +472,129 @@
     "genre":["Role-playing (RPG)", "Platformer", "Action", "Adventure"],
     "platform": ["Windows", "Xbox One" , "PlayStation 4"],
     "release":{
-        "year": 0,
-        "month": 0    
+        "year": 2017,
+        "month": 10    
     },
     "img": "games-img-25-2(nd)/assassin's-creed-origins.jpg",
     "price": 40
+},
+{
+    "title": "Assassin's Creed Odyssey",
+    "id": 41,
+    "genre":["Role-playing (RPG)", "Platformer", "Action", "Adventure"],
+    "platform": ["Windows", "Xbox One" , "PlayStation 4" ,"Nintendo Switch"],
+    "release":{
+        "year": 2018,
+        "month": 10    
+    },
+    "img": "games-img-25-2(nd)/assassin's-creed-odyssey.jpg",
+    "price": 20
+},
+{
+    "title": "Assassin's Creed Valhalla",
+    "id": 42,
+    "genre":["Role-playing (RPG)", "Platformer", "Action", "Adventure"],
+    "platform": ["Windows", "Xbox One" , "PlayStation 4", "Xbox Series", "PlayStation 5"],
+    "release":{
+        "year": 2020,
+        "month": 11    
+    },
+    "img": "games-img-25-2(nd)/assassin's-creed-valhalla.jpg",
+    "price": 30
+},
+{
+    "title": "Assassin's Creed Mirage",
+    "id": 43,
+    "genre":["Platformer", "Action", "Adventure"],
+    "platform": ["Windows", "Xbox One" , "PlayStation 4", "Xbox Series", "PlayStation 5"],
+    "release":{
+        "year": 2023,
+        "month": 10    
+    },
+    "img": "games-img-25-2(nd)/assassin's-creed-mirage.jpg",
+    "price": 30
+},
+{
+    "title": "Assassin's Creed Shadows",
+    "id": 44,
+    "genre":["Platformer", "Action", "Adventure"],
+    "platform": ["Windows", "Xbox Series" , "PlayStation 5"],
+    "release":{
+        "year": 2025,
+        "month": 3    
+    },
+    "img": "games-img-25-2(nd)/assassin's-creed-shadows.jpg",
+    "price": 70
+},
+{
+    "title": "DiRT",
+    "id": 45,
+    "genre":["Driving", "Racing"],
+    "platform": ["Windows", "PlayStation 3", "Xbox 360"],
+    "release":{
+        "year": 2007,
+        "month": 6    
+    },
+    "img": "games-img-25-2(nd)/Dirt.png",
+    "price": 15
+},
+{
+    "title": "DiRT 2",
+    "id": 46,
+    "genre":["Driving", "Racing"],
+    "platform": ["Windows", "PlayStation 3", "Xbox 360", "Wii", "Nintendo DS" , "PSP"],
+    "release":{
+        "year": 2009,
+        "month": 9    
+    },
+    "img": "games-img-25-2(nd)/Dirt-2.png",
+    "price": 20
+},
+{
+    "title": "DiRT 3",
+    "id": 47,
+    "genre":["Driving", "Racing"],
+    "platform": ["Windows", "PlayStation 3", "Xbox 360"],
+    "release":{
+        "year": 2011,
+        "month": 5    
+    },
+    "img": "games-img-25-2(nd)/Dirt-3.jpg",
+    "price": 10
+},
+{
+    "title": "DiRT Showdown",
+    "id": 48,
+    "genre":["Driving", "Racing"],
+    "platform": ["Windows", "PlayStation 3", "Xbox 360"],
+    "release":{
+        "year": 2012,
+        "month": 6    
+    },
+    "img": "games-img-25-2(nd)/Dirt-showdown.png",
+    "price": 10
+},
+{
+    "title": "DiRT Rally",
+    "id": 49,
+    "genre":["Driving", "Racing"],
+    "platform": ["Windows", "Xbox One", "PlayStation 4"],
+    "release":{
+        "year": 2015,
+        "month": 12    
+    },
+    "img": "games-img-25-2(nd)/Dirt-rally.png",
+    "price": 20
+},
+{
+    "title": "DiRT 4",
+    "id": 50,
+    "genre":["Driving", "Racing"],
+    "platform": ["Windows", "Xbox One", "PlayStation 4"],
+    "release":{
+        "year": 2017,
+        "month": 6    
+    },
+    "img": "games-img-25-2(nd)/Dirt-4.jpg",
+    "price": 20
 }]
