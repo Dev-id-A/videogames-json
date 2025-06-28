@@ -597,4 +597,124 @@
     },
     "img": "games-img-25-2(nd)/Dirt-4.jpg",
     "price": 20
+},
+{
+    "title": "Dirt Rally 2.0",
+    "id": 51,
+    "genre":["Driving", "Racing"],
+    "platform": ["Windows", "Xbox One", "PlayStation 4"],
+    "release":{
+        "year": 2019,
+        "month": 2    
+    },
+    "img": "games-img-25-3(rd)/Dirt-4.jpg",
+    "price": 30
+},
+{
+    "title": "Dirt 5",
+    "id": 52,
+    "genre":["Driving", "Racing"],
+    "platform": ["Windows", "Xbox One", "PlayStation 4", "Xbox Series", "PlayStation 5"],
+    "release":{
+        "year": 2020,
+        "month": 11    
+    },
+    "img": "games-img-25-3(rd)/Dirt-5.jpg",
+    "price": 40
+},
+{
+    "title": "Mortal Kombat",
+    "id": 53,
+    "genre":["Action", "Fighting"],
+    "platform": ["Amiga", "Game Boy", "Game Gear", "Genesis", "Sega Master System", "Super Nintendo", "Windows"],
+    "release":{
+        "year": 1992,
+        "month": 8    
+    },
+    "img": "games-img-25-3(rd)/Mortal-kombat.png",
+    "price": 40
+},
+{
+    "title": "Mortal Kombat II",
+    "id": 54,
+    "genre":["Action", "Fighting"],
+    "platform": ["Amiga", "Game Boy", "Game Gear", "Genesis", "Super Nintendo", "Playstation", "Sega 32X", "Saturn", "Windows"],
+    "release":{
+        "year": 1993,
+        "month": 6    
+    },
+    "img": "games-img-25-3(rd)/Mortal-kombat-2.png",
+    "price": 30
+},
+{
+    "title": "Mortal Kombat 3",
+    "id": 55,
+    "genre":["Action", "Fighting"],
+    "platform": ["Game Boy", "Game Gear", "Genesis", "Sega Master System", "Super Nintendo", "Playstation", "Windows"],
+    "release":{
+        "year": 1995,
+        "month": 4    
+    },
+    "img": "games-img-25-3(rd)/Mortal-kombat-3.png",
+    "price": 30
+},
+{
+    "title": "Mortal Kombat 4",
+    "id": 56,
+    "genre":["Action", "Fighting"],
+    "platform": ["Playstation", "Nintendo 64", "Game Boy Color", "Windows"],
+    "release":{
+        "year": 1997,
+        "month": 10    
+    },
+    "img": "games-img-25-3(rd)/Mortal-kombat-4.png",
+    "price": 20
+},
+{
+    "title": "Mortal Kombat: Deadly Alliance",
+    "id": 57,
+    "genre":["Action", "Fighting"],
+    "platform": ["Game Boy Advance", "PlayStation 2", "GameCube", "Xbox"],
+    "release":{
+        "year": 2002,
+        "month": 11    
+    },
+    "img": "games-img-25-3(rd)/Mortal-kombat-deadly-alliance.png",
+    "price": 20
+},
+{
+    "title": "Mortal Kombat: Deception",
+    "id": 58,
+    "genre":["Action", "Fighting", "Puzzle", "Adventure"],
+    "platform": ["PSP", "PlayStation 2", "GameCube", "Xbox"],
+    "release":{
+        "year": 2004,
+        "month": 8    
+    },
+    "img": "games-img-25-3(rd)/Mortal-kombat-deception.png",
+    "price": 20
+},
+{
+    "title": "Mortal Kombat: Armageddon",
+    "id": 59,
+    "genre":["Action", "Driving", "Racing", "Fighting", "Adventure"],
+    "platform": ["PlayStation 2", "Xbox", "Wii"],
+    "release":{
+        "year": 2006,
+        "month": 10    
+    },
+    "img": "games-img-25-3(rd)/Mortal-kombat-armageddon.png",
+    "price": 30
+},
+{
+    "title": "Mortal Kombat vs. DC Universe",
+    "id": 60,
+    "genre":["Action", "Fighting"],
+    "platform": ["Xbox 360", "PlayStation 3"],
+    "release":{
+        "year": 2008,
+        "month": 11   
+    },
+    "img": "games-img-25-3(rd)/Mortal-kombat-vs-dc-universe.jpg",
+    "price": 40
 }]
