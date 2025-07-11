@@ -836,5 +836,125 @@
         "month": 6   
     },
     "img": "games-img-25-3(rd)/street-fighter-6.jpg",
-    "price": 5
+    "price": 50
+},
+{
+    "title": "Doom",
+    "id": 71,
+    "genre":["Shooter", "First person Shooter (FPS)"],
+    "platform": ["Game Boy Advance", "Super Nintendo", "Playstation", "Sega 32X", "Saturn", "Xbox 360", "PlayStation 3", "Windows", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "release":{
+        "year": 1993,
+        "month": 12   
+    },
+    "img": "games-img-25-3(rd)/Doom.jpg",
+    "price": 10
+},
+{
+    "title": "Doom II: Hell on Earth",
+    "id": 72,
+    "genre":["Shooter", "First person Shooter (FPS)"],
+    "platform": ["Game Boy Advance", "Playstation", "Xbox 360", "Windows", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "release":{
+        "year": 1994,
+        "month": 10   
+    },
+    "img": "games-img-25-3(rd)/Doom-2.jpg",
+    "price": 10
+},
+{
+    "title": "Doom 3",
+    "id": 73,
+    "genre":["Shooter", "First person Shooter (FPS)", "Horror"],
+    "platform": ["Xbox", "Xbox 360", "PlayStation 3", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "release":{
+        "year": 2004,
+        "month": 8   
+    },
+    "img": "games-img-25-3(rd)/Doom-3.png",
+    "price": 10
+},
+{
+    "title": "Doom",
+    "id": 74,
+    "genre":["Shooter", "First person Shooter (FPS)"],
+    "platform": ["Windows", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "release":{
+        "year": 2016,
+        "month": 5   
+    },
+    "img": "games-img-25-3(rd)/Doom-2016.jpg",
+    "price": 20
+},
+{
+    "title": "Doom Eternal",
+    "id": 75,
+    "genre":["Shooter", "First person Shooter (FPS)"],
+    "platform": ["Windows", "Xbox One", "Nintendo Switch", "PlayStation 5", "Xbox Series"],
+    "release":{
+        "year": 2020,
+        "month": 3   
+    },
+    "img": "games-img-25-3(rd)/Doom-eternal.png",
+    "price": 40
+},
+{
+    "title": "Doom: The Dark Ages",
+    "id": 76,
+    "genre":["Shooter", "First person Shooter (FPS)"],
+    "platform": ["Windows", "PlayStation 5", "Xbox Series"],
+    "release":{
+        "year": 2025,
+        "month": 5   
+    },
+    "img": "games-img-25-4(th)/Doom-the-dark-ages.jpg",
+    "price": 70
+},
+{
+    "title": "Uncharted: Drake's Fortune",
+    "id": 77,
+    "genre":["Shooter", "Action", "Adventure"],
+    "platform": ["PlayStation 3", "PlayStation 4", "PlayStation 5"],
+    "release":{
+        "year": 2007,
+        "month": 11   
+    },
+    "img": "games-img-25-4(th)/Uncharted.png",
+    "price": 20
+},
+{
+    "title": "Uncharted 2: Among Thieves",
+    "id": 78,
+    "genre":["Shooter", "Action", "Adventure"],
+    "platform": ["PlayStation 3", "PlayStation 4", "PlayStation 5"],
+    "release":{
+        "year": 2009,
+        "month": 10   
+    },
+    "img": "games-img-25-4(th)/Uncharted-2.png",
+    "price": 20
+},
+{
+    "title": "Uncharted 3: Drake's Deception",
+    "id": 79,
+    "genre":["Shooter", "Action", "Adventure"],
+    "platform": ["PlayStation 3", "PlayStation 4", "PlayStation 5"],
+    "release":{
+        "year": 2011,
+        "month": 11   
+    },
+    "img": "games-img-25-4(th)/Uncharted-3.png",
+    "price": 20
+},
+{
+    "title": "Uncharted 4: A Thief's End",
+    "id": 80,
+    "genre":["Shooter", "Action", "Adventure"],
+    "platform": ["PlayStation 4", "PlayStation 5"],
+    "release":{
+        "year": 2016,
+        "month": 5   
+    },
+    "img": "games-img-25-4(th)/Uncharted-4.jpg",
+    "price": 20
 }]
