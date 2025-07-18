@@ -957,4 +957,124 @@
     },
     "img": "games-img-25-4(th)/Uncharted-4.jpg",
     "price": 20
+},
+{
+    "title": "Gears of War",
+    "id": 81,
+    "genre":["Shooter", "Horror"],
+    "platform": ["Xbox 360", "Windows", "Xbox One", "PlayStation 5", "Xbox Series"],
+    "release":{
+        "year": 2006,
+        "month": 11   
+    },
+    "img": "games-img-25-4(th)/Gears-of-war.png",
+    "price": 20
+},
+{
+    "title": "Gears of War 2",
+    "id": 82,
+    "genre":["Shooter", "Action"],
+    "platform": ["Xbox 360"],
+    "release":{
+        "year": 2008,
+        "month": 11   
+    },
+    "img": "games-img-25-4(th)/Gears-of-war-2.png",
+    "price": 20
+},
+{
+    "title": "Gears of War 3",
+    "id": 83,
+    "genre":["Shooter", "Action"],
+    "platform": ["Xbox 360"],
+    "release":{
+        "year": 2011,
+        "month": 9   
+    },
+    "img": "games-img-25-4(th)/Gears-of-war-3.jpg",
+    "price": 20
+},
+{
+    "title": "Gears of War: Judgment",
+    "id": 84,
+    "genre":["Shooter", "Action"],
+    "platform": ["Xbox 360"],
+    "release":{
+        "year": 2013,
+        "month": 3   
+    },
+    "img": "games-img-25-4(th)/Gears-of-war-judgment.png",
+    "price": 20
+},
+{
+    "title": "Gears of War 4",
+    "id": 85,
+    "genre":["Shooter", "Horror"],
+    "platform": ["Windows", "Xbox One"],
+    "release":{
+        "year": 2016,
+        "month": 10   
+    },
+    "img": "games-img-25-4(th)/Gears-of-war-4.jpg",
+    "price": 20
+},
+{
+    "title": "Gears 5",
+    "id": 86,
+    "genre":["Shooter", "Action"],
+    "platform": ["Windows", "Xbox One", "Xbox Series"],
+    "release":{
+        "year": 2019,
+        "month": 9   
+    },
+    "img": "games-img-25-4(th)/Gears-5.png",
+    "price": 20
+},
+{
+    "title": "Halo: Combat Evolved",
+    "id": 87,
+    "genre":["Shooter", "First person Shooter (FPS)"],
+    "platform": ["Xbox 360", "Windows"],
+    "release":{
+        "year": 2001,
+        "month": 11   
+    },
+    "img": "games-img-25-4(th)/Halo.jpg",
+    "price": 15
+},
+{
+    "title": "Halo 2",
+    "id": 88,
+    "genre":["Shooter", "First person Shooter (FPS)"],
+    "platform": ["Xbox", "Windows"],
+    "release":{
+        "year": 2004,
+        "month": 11   
+    },
+    "img": "games-img-25-4(th)/Halo-2.jpeg",
+    "price": 20
+},
+{
+    "title": "Halo 3",
+    "id": 89,
+    "genre":["Shooter", "First person Shooter (FPS)"],
+    "platform": ["Xbox 360"],
+    "release":{
+        "year": 2007,
+        "month": 9  
+    },
+    "img": "games-img-25-4(th)/Halo-3.png",
+    "price": 20
+},
+{
+    "title": "Halo 4",
+    "id": 90,
+    "genre":["Shooter", "First person Shooter (FPS)"],
+    "platform": ["Xbox 360"],
+    "release":{
+        "year": 2012,
+        "month": 11   
+    },
+    "img": "games-img-25-4(th)/Halo-4.png",
+    "price": 20
 }]
