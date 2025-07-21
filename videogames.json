@@ -1077,4 +1077,124 @@
     },
     "img": "games-img-25-4(th)/Halo-4.png",
     "price": 20
+},
+{
+    "title": "Halo 5: Guardians",
+    "id": 91,
+    "genre":["Shooter", "First person Shooter (FPS)"],
+    "platform": ["Xbox One"],
+    "release":{
+        "year": 2015,
+        "month": 10   
+    },
+    "img": "games-img-25-4(th)/Halo-5.png",
+    "price": 20
+},
+{
+    "title": "Halo Infinite",
+    "id": 92,
+    "genre":["Shooter", "First person Shooter (FPS)"],
+    "platform": ["Windows", "Xbox One", "Xbox Series"],
+    "release":{
+        "year": 2021,
+        "month": 11   
+    },
+    "img": "games-img-25-4(th)/Halo-infinite.jpeg",
+    "price": 50
+},
+{
+    "title": "Super Mario Bros.",
+    "id": 93,
+    "genre":["Platformer"],
+    "platform": ["Game Boy Advance", "Nintendo Entertaiment System", "Famicom"],
+    "release":{
+        "year": 1985,
+        "month": 9   
+    },
+    "img": "games-img-25-4(th)/Super-mario-bros.jpg",
+    "price": 20
+},
+{
+    "title": "Super Mario World",
+    "id": 94,
+    "genre":["Platformer"],
+    "platform": ["Super Nintendo Entertaiment System"],
+    "release":{
+        "year": 1990,
+        "month": 11   
+    },
+    "img": "games-img-25-4(th)/Super-mario-world.jpg",
+    "price": 30
+},
+{
+    "title": "Super Mario 64",
+    "id": 95,
+    "genre":["Adventure", "Platformer"],
+    "platform": ["Nintendo 64"],
+    "release":{
+        "year": 1996,
+        "month": 6   
+    },
+    "img": "games-img-25-4(th)/Super-mario-64.jpg",
+    "price": 30
+},
+{
+    "title": "Super Mario Sunshine",
+    "id": 96,
+    "genre":["Action", "Adventure", "Platformer"],
+    "platform": ["GameCube"],
+    "release":{
+        "year": 2002,
+        "month": 6   
+    },
+    "img": "games-img-25-4(th)/Super-mario-sunshine.jpg",
+    "price": 50
+},
+{
+    "title": "Super Mario Galaxy",
+    "id": 97,
+    "genre":["Platformer"],
+    "platform": ["Wii", "Wii U"],
+    "release":{
+        "year": 2007,
+        "month": 11   
+    },
+    "img": "games-img-25-4(th)/Super_mario_galaxy.jpg",
+    "price": 30
+},
+{
+    "title": "Super Mario Galaxy 2",
+    "id": 98,
+    "genre":["Platformer"],
+    "platform": ["Wii", "Wii U"],
+    "release":{
+        "year": 2010,
+        "month": 5   
+    },
+    "img": "games-img-25-4(th)/Super_mario_galaxy-2.jpg",
+    "price": 30
+},
+{
+    "title": "Super Mario Odyssey",
+    "id": 99,
+    "genre":["Platformer"],
+    "platform": ["Nintendo Switch"],
+    "release":{
+        "year": 2017,
+        "month": 10   
+    },
+    "img": "games-img-25-4(th)/Super-mario-odyssey.jfif",
+    "price": 50
+},
+{
+    "title": "Super Mario Bros. Wonder",
+    "id": 100,
+    "genre":["Platformer"],
+    "platform": ["Nintendo Switch"],
+    "release":{
+        "year": 2023,
+        "month": 10   
+    },
+    "img": "games-img-25-4(th)/Super-mario-wonder.jfif",
+    "price": 50
 }]
